@@ -1,0 +1,14 @@
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\bin\Debug\net8.0\SistemaGestionDeCalidad.MODEL.deps.json
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\bin\Debug\net8.0\SistemaGestionDeCalidad.MODEL.runtimeconfig.json
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\bin\Debug\net8.0\SistemaGestionDeCalidad.MODEL.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\bin\Debug\net8.0\SistemaGestionDeCalidad.MODEL.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\obj\Debug\net8.0\SistemaGestionDeCalidad.MODEL.csproj.AssemblyReference.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\obj\Debug\net8.0\SistemaGestionDeCalidad.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\obj\Debug\net8.0\SistemaGestionDeCalidad.MODEL.AssemblyInfoInputs.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\obj\Debug\net8.0\SistemaGestionDeCalidad.MODEL.AssemblyInfo.cs
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\obj\Debug\net8.0\SistemaGestionDeCalidad.MODEL.csproj.CoreCompileInputs.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\obj\Debug\net8.0\SistemaGestionDeCalidad.MODEL.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\obj\Debug\net8.0\refint\SistemaGestionDeCalidad.MODEL.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\obj\Debug\net8.0\SistemaGestionDeCalidad.MODEL.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\obj\Debug\net8.0\SistemaGestionDeCalidad.MODEL.genruntimeconfig.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.MODEL\obj\Debug\net8.0\ref\SistemaGestionDeCalidad.MODEL.dll

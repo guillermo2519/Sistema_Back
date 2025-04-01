@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SistemaGestionDeCalidad.API.props" />
+</Project>

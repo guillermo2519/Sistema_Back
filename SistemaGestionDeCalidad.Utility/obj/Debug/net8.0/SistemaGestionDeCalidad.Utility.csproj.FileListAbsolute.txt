@@ -1,0 +1,17 @@
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\bin\Debug\net8.0\SistemaGestionDeCalidad.Utility.deps.json
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\bin\Debug\net8.0\SistemaGestionDeCalidad.Utility.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\bin\Debug\net8.0\SistemaGestionDeCalidad.Utility.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\bin\Debug\net8.0\SistemaGestionDeCalidad.DTO.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\bin\Debug\net8.0\SistemaGestionDeCalidad.MODEL.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\bin\Debug\net8.0\SistemaGestionDeCalidad.DTO.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\bin\Debug\net8.0\SistemaGestionDeCalidad.MODEL.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\obj\Debug\net8.0\SistemaGestionDeCalidad.Utility.csproj.AssemblyReference.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\obj\Debug\net8.0\SistemaGestionDeCalidad.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\obj\Debug\net8.0\SistemaGestionDeCalidad.Utility.AssemblyInfoInputs.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\obj\Debug\net8.0\SistemaGestionDeCalidad.Utility.AssemblyInfo.cs
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\obj\Debug\net8.0\SistemaGestionDeCalidad.Utility.csproj.CoreCompileInputs.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\obj\Debug\net8.0\SistemaG.BAE862DF.Up2Date
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\obj\Debug\net8.0\SistemaGestionDeCalidad.Utility.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\obj\Debug\net8.0\refint\SistemaGestionDeCalidad.Utility.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\obj\Debug\net8.0\SistemaGestionDeCalidad.Utility.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.Utility\obj\Debug\net8.0\ref\SistemaGestionDeCalidad.Utility.dll

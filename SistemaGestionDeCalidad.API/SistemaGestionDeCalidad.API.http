@@ -1,0 +1,6 @@
+@SistemaGestionDeCalidad.API_HostAddress = http://localhost:5063
+
+GET {{SistemaGestionDeCalidad.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\bin\Debug\net8.0\SistemaGestionDeCalidad.DAL.deps.json
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\bin\Debug\net8.0\SistemaGestionDeCalidad.DAL.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\bin\Debug\net8.0\SistemaGestionDeCalidad.DAL.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\bin\Debug\net8.0\SistemaGestionDeCalidad.MODEL.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\bin\Debug\net8.0\SistemaGestionDeCalidad.MODEL.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\obj\Debug\net8.0\SistemaGestionDeCalidad.DAL.csproj.AssemblyReference.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\obj\Debug\net8.0\SistemaGestionDeCalidad.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\obj\Debug\net8.0\SistemaGestionDeCalidad.DAL.AssemblyInfoInputs.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\obj\Debug\net8.0\SistemaGestionDeCalidad.DAL.AssemblyInfo.cs
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\obj\Debug\net8.0\SistemaGestionDeCalidad.DAL.csproj.CoreCompileInputs.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\obj\Debug\net8.0\SistemaG.A66434FA.Up2Date
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\obj\Debug\net8.0\SistemaGestionDeCalidad.DAL.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\obj\Debug\net8.0\refint\SistemaGestionDeCalidad.DAL.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\obj\Debug\net8.0\SistemaGestionDeCalidad.DAL.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DAL\obj\Debug\net8.0\ref\SistemaGestionDeCalidad.DAL.dll

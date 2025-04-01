@@ -1,0 +1,442 @@
+[
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Control_DocumentalController",
+    "Method": "ActualizarArchivo",
+    "RelativePath": "api/Control_Documental/ActualizarArchivo/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "archivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Control_DocumentalController",
+    "Method": "Crear",
+    "RelativePath": "api/Control_Documental/Crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "SistemaGestionDeCalidad.DTO.Control_DocumentalDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SistemaGestionDeCalidad.MODEL.ControlDocumental",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Control_DocumentalController",
+    "Method": "Editar",
+    "RelativePath": "api/Control_Documental/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "SistemaGestionDeCalidad.DTO.Control_DocumentalDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Control_DocumentalController",
+    "Method": "EditarEstado",
+    "RelativePath": "api/Control_Documental/EditarEstado",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "SistemaGestionDeCalidad.DTO.Control_DocumentalDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Control_DocumentalController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Control_Documental/Eliminar/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Control_DocumentalController",
+    "Method": "GetLista",
+    "RelativePath": "api/Control_Documental/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[SistemaGestionDeCalidad.DTO.Control_DocumentalDTO, SistemaGestionDeCalidad.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.DashBoardController",
+    "Method": "Resumen",
+    "RelativePath": "api/DashBoard/Resumen",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.EmpresaController",
+    "Method": "Crear",
+    "RelativePath": "api/Empresa/Crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresa",
+        "Type": "SistemaGestionDeCalidad.DTO.EmpresaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.EmpresaController",
+    "Method": "EditarEmpresa",
+    "RelativePath": "api/Empresa/EditarEmpresa",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresa",
+        "Type": "SistemaGestionDeCalidad.DTO.EmpresaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.EmpresaController",
+    "Method": "EliminarEmpresa",
+    "RelativePath": "api/Empresa/EliminarEmpresa/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.EmpresaController",
+    "Method": "GetLista",
+    "RelativePath": "api/Empresa/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[SistemaGestionDeCalidad.DTO.EmpresaDTO, SistemaGestionDeCalidad.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.MenuController",
+    "Method": "Lista",
+    "RelativePath": "api/Menu/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdMenu",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.NotificacionesController",
+    "Method": "MarcarComoLeida",
+    "RelativePath": "api/Notificaciones/{id}/marcar-como-leida",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.NotificacionesController",
+    "Method": "ObtenerNotificaciones",
+    "RelativePath": "api/Notificaciones/{idUsuario}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.RolesController",
+    "Method": "Lista",
+    "RelativePath": "api/Roles/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Tareas_Controller",
+    "Method": "ActualizarArchivo",
+    "RelativePath": "api/Tareas_/ActualizarArchivo/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "archivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Tareas_Controller",
+    "Method": "Crear",
+    "RelativePath": "api/Tareas_/Crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "SistemaGestionDeCalidad.DTO.TareasDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SistemaGestionDeCalidad.MODEL.Tareas",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Tareas_Controller",
+    "Method": "Editar",
+    "RelativePath": "api/Tareas_/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "SistemaGestionDeCalidad.DTO.TareasDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Tareas_Controller",
+    "Method": "EditarEstado",
+    "RelativePath": "api/Tareas_/EditarEstado",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelo",
+        "Type": "SistemaGestionDeCalidad.DTO.TareasDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Tareas_Controller",
+    "Method": "Eliminar",
+    "RelativePath": "api/Tareas_/Eliminar/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.Tareas_Controller",
+    "Method": "GetLista",
+    "RelativePath": "api/Tareas_/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[SistemaGestionDeCalidad.DTO.TareasDTO, SistemaGestionDeCalidad.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.UsuarioController",
+    "Method": "EditarUsuario",
+    "RelativePath": "api/Usuario/EditarUsuario",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "SistemaGestionDeCalidad.DTO.UsuariosDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.UsuarioController",
+    "Method": "EliminarUsuario",
+    "RelativePath": "api/Usuario/EliminarUsuario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.UsuarioController",
+    "Method": "GuardarUsuario",
+    "RelativePath": "api/Usuario/GuardarUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "SistemaGestionDeCalidad.DTO.UsuariosDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.UsuarioController",
+    "Method": "IniciarSesion",
+    "RelativePath": "api/Usuario/IniciarSesion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "SistemaGestionDeCalidad.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaGestionDeCalidad.API.Controllers.UsuarioController",
+    "Method": "Lista",
+    "RelativePath": "api/Usuario/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\bin\Debug\net8.0\SistemaGestionDeCalidad.DTO.deps.json
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\bin\Debug\net8.0\SistemaGestionDeCalidad.DTO.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\bin\Debug\net8.0\SistemaGestionDeCalidad.DTO.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\obj\Debug\net8.0\SistemaGestionDeCalidad.DTO.csproj.AssemblyReference.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\obj\Debug\net8.0\SistemaGestionDeCalidad.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\obj\Debug\net8.0\SistemaGestionDeCalidad.DTO.AssemblyInfoInputs.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\obj\Debug\net8.0\SistemaGestionDeCalidad.DTO.AssemblyInfo.cs
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\obj\Debug\net8.0\SistemaGestionDeCalidad.DTO.csproj.CoreCompileInputs.cache
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\obj\Debug\net8.0\SistemaGestionDeCalidad.DTO.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\obj\Debug\net8.0\refint\SistemaGestionDeCalidad.DTO.dll
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\obj\Debug\net8.0\SistemaGestionDeCalidad.DTO.pdb
+D:\VISUAL ESTUDIO PROJECTS\APISistemaGetionDeCalidad\SistemaGestionDeCalidad.DTO\obj\Debug\net8.0\ref\SistemaGestionDeCalidad.DTO.dll
